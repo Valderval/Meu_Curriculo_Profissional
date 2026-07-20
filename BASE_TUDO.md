@@ -8,9 +8,9 @@
 ## 🏆 DESTAQUES / "MELHORES MOMENTOS" (Para copiar e colar em bios rápidas)
 *(Mantenha aqui os 3 a 5 projetos dos quais você mais se orgulha. Atualize sempre que um novo superar os antigos).*
 
-1. **[Projeto X]** - `[Função]` - `[Ano]` - `[Motivo do destaque, ex: público recorde ou prêmio]`
-2. **[Projeto Y]** - `[Função]` - `[Ano]` - `[Motivo do destaque]`
-3. **[Projeto Z]** - `[Função]` - `[Ano]` - `[Motivo do destaque]`
+1. **[Grupo FATO]** - `[técnico de som]` - `[desde 2013]` - `[Mais de 50 shows em incluindo tounes nacionais e internacionais (França, Argentina, Oruguiai]`
+2. **[Fandango Caiçara - Patrimônio Imaterial]** - `[Produtor Musical]` - `[2023]` - `[4 discos de Fandango: Grupo Mandicuera, Grupo Mestre Eugenio, Grupo Pés de Ouro e Grupo Mestre Romão]`
+3. **[Thayana Barbosa]** - `[Baterista]` - `[desde 2009]` - `[Músico acompanhante em shows ao vivo e gravações]`
 
 ---
 
