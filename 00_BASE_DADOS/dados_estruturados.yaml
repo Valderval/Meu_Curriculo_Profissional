@@ -1,0 +1,399 @@
+dados_pessoais:
+  nome: "Valderval de Oliveira Filho"
+  area_atuacao: "Produção Musical e Eventos Culturais"
+  localizacao: "Curitiba/PR"
+  formacao:
+    - titulo: "Musicoterapeuta"
+      instituicao: "Faculdade de Artes do Paraná"
+      registro: "CPMT 128/01-PR"
+      omb: "P-0388-PR"
+
+competencias_principais:
+  - id: "diretor_de_palco"
+    label: "Diretor de Palco"
+    categoria: "palco"
+  - id: "tecnico_som"
+    label: "Técnico de Som"
+    categoria: "som"
+  - id: "tecnico_pa"
+    label: "Técnico de PA"
+    categoria: "som"
+  - id: "tecnico_monitor"
+    label: "Técnico de Monitor"
+    categoria: "som"
+  - id: "produtor_musical"
+    label: "Produtor Musical"
+    categoria: "producao"
+  - id: "tecnico_gravacao"
+    label: "Técnico de Gravação"
+    categoria: "producao"
+  - id: "mixagem"
+    label: "Mixagem"
+    categoria: "producao"
+  - id: "baterista"
+    label: "Baterista"
+    categoria: "musico"
+  - id: "percussionista"
+    label: "Percussionista"
+    categoria: "musico"
+  - id: "gestao_palco"
+    label: "Gestão de Palco"
+    categoria: "palco"
+  - id: "coordenacao_equipe"
+    label: "Coordenação de Equipe"
+    categoria: "palco"
+  - id: "gravacao_estudio"
+    label: "Gravação em Estúdio"
+    categoria: "producao"
+
+projetos:
+  - id: "fato_2013"
+    data_inicio: "2013-01-01"
+    data_fim: null
+    titulo: "Grupo FATO - Parceria de Longa Data"
+    cliente: "Grupo FATO"
+    local: "Curitiba/PR e Turnês Nacionais e Internacionais"
+    competencias:
+      - "tecnico_som"
+      - "tecnico_pa"
+      - "tecnico_gravacao"
+      - "coordenacao_equipe"
+    descricao: |
+      Início da parceria como técnico de som com o Grupo FATO em 2003.
+      Mais de 50 shows incluindo turnês nacionais e internacionais (França, Argentina, Uruguai).
+      Responsável pela captação de som ao vivo, passagem de som e documentação técnica.
+    duracao_anos: 13
+    num_shows: 50
+    publico_aprox: null
+    escala: "internacional"
+    evidencias:
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/grupo_fato.pdf"
+    links_audio_video:
+      - plataforma: "spotify"
+        url: "https://open.spotify.com/artist/grupofato"
+    destaque: true
+    status: "ativo"
+    categoria: "tecnico"
+
+  - id: "fandango_caicara_2023"
+    data_inicio: "2023-05-10"
+    data_fim: "2023-05-10"
+    titulo: "Projeto Fandango Caiçara - Patrimônio Imaterial"
+    cliente: "Projeto Cultural - Ilha dos Valadares"
+    local: "Ilha dos Valadares/PR"
+    competencias:
+      - "tecnico_gravacao"
+      - "produtor_musical"
+      - "mixagem"
+    descricao: |
+      Responsável pela gravação de 4 discos do projeto "Fandango Caiçara Patrimônio Imaterial".
+      Documentação da cultura tradicional caiçara em formato fonográfico.
+      Projeto de preservação do patrimônio cultural imaterial.
+      Artistas: Grupo Mandicuera, Grupo Mestre Eugenio, Grupo Pés de Ouro e Grupo Mestre Romão.
+    duracao_anos: 1
+    num_discos: 4
+    publico_aprox: null
+    escala: "regional"
+    evidencias:
+      - tipo: "comprovante"
+        caminho: "02_DIGITALIZACOES/Comprovantes/fandango_caicara.pdf"
+    links_audio_video:
+      - plataforma: "spotify"
+        url: "https://open.spotify.com/search/fandango%20caicara"
+    destaque: true
+    status: "completo"
+    categoria: "produtor"
+
+  - id: "psicodalia_palco_lunar_2019_2024"
+    data_inicio: "2019-03-01"
+    data_fim: "2024-04-20"
+    titulo: "Psicodália - Direção de Palco Lunar"
+    cliente: "Psicodália Festival"
+    local: "Curitiba/PR"
+    competencias:
+      - "diretor_de_palco"
+      - "gestao_palco"
+      - "coordenacao_equipe"
+      - "tecnico_som"
+    descricao: |
+      Direção de palco do Palco Lunar no Psicodália Festival (2019, 2024).
+      Coordenação de 15 shows por edição, gerenciando equipe técnica e transições entre atrações.
+      Festival de grande porte com artistas nacionais como Elza Soares, Hermeto Pascoal, Liniker.
+    duracao_anos: 6
+    num_shows: 30
+    publico_aprox: null
+    escala: "regional"
+    evidencias:
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/psicodalia_2019_programa.pdf"
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/psicodalia_2024_programa.pdf"
+    links_audio_video: []
+    destaque: true
+    status: "ativo"
+    categoria: "diretor"
+
+  - id: "coolritiba_2017_2019"
+    data_inicio: "2017-05-13"
+    data_fim: "2019-05-11"
+    titulo: "Coolritiba - Direção do Palco Arnica"
+    cliente: "Festival Coolritiba"
+    local: "Curitiba/PR"
+    competencias:
+      - "diretor_de_palco"
+      - "gestao_palco"
+      - "coordenacao_equipe"
+    descricao: |
+      Direção de palco do Palco Arnica no Festival Coolritiba (2017, 2018, 2019).
+      Coordenação da logística de 8-15 apresentações musicais por edição.
+      Festival consolidado no cenário musical curitibano.
+    duracao_anos: 3
+    num_shows: 30
+    publico_aprox: null
+    escala: "regional"
+    evidencias:
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/coolritiba_2017_programa.pdf"
+    links_audio_video: []
+    destaque: false
+    status: "completo"
+    categoria: "diretor"
+
+  - id: "thayana_barbosa_2009"
+    data_inicio: "2009-01-01"
+    data_fim: null
+    titulo: "Thayana Barbosa - Acompanhamento Musical"
+    cliente: "Thayana Barbosa (Artista)"
+    local: "Curitiba/PR e Turnês"
+    competencias:
+      - "baterista"
+      - "percussionista"
+    descricao: |
+      Músico acompanhante em shows ao vivo e gravações da artista Thayana Barbosa.
+      Participação em apresentações e produções fonográficas.
+    duracao_anos: 17
+    num_shows: null
+    publico_aprox: null
+    escala: "regional"
+    evidencias: []
+    links_audio_video:
+      - plataforma: "spotify"
+        url: "https://open.spotify.com/artist/thayana-barbosa"
+    destaque: true
+    status: "ativo"
+    categoria: "musico"
+
+  - id: "oficina_musica_curitiba_2019"
+    data_inicio: "2019-01-18"
+    data_fim: "2019-01-26"
+    titulo: "36ª Oficina de Música de Curitiba"
+    cliente: "Oficina de Música de Curitiba"
+    local: "Teatro do Paiol - Curitiba/PR"
+    competencias:
+      - "tecnico_som"
+      - "tecnico_pa"
+      - "tecnico_monitor"
+    descricao: |
+      Técnico de som para 9 shows no Teatro do Paiol durante a Oficina de Música de Curitiba.
+      Incluindo apresentações de Rogéria Holtz, Suzie Franco, Cristóvão Bastos e Lula Galvão.
+      Evento tradicional da cena cultural curitibana.
+    duracao_dias: 9
+    num_shows: 9
+    publico_aprox: null
+    escala: "regional"
+    evidencias:
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/oficina_musica_2019.pdf"
+    links_audio_video: []
+    destaque: false
+    status: "completo"
+    categoria: "tecnico"
+
+  - id: "jorge_drexler_2019"
+    data_inicio: "2019-06-08"
+    data_fim: "2019-06-08"
+    titulo: "Jorge Drexler - Show no Teatro do Guairão"
+    cliente: "Teatro do Guairão"
+    local: "Teatro do Guairão - Curitiba/PR"
+    competencias:
+      - "diretor_de_palco"
+      - "tecnico_som"
+    descricao: |
+      Direção de palco para o show do cantor uruguaio Jorge Drexler.
+      Show internacional de grande porte com artista renomado.
+    duracao_dias: 1
+    num_shows: 1
+    publico_aprox: null
+    escala: "internacional"
+    evidencias:
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/jorge_drexler_2019.pdf"
+    links_audio_video: []
+    destaque: false
+    status: "completo"
+    categoria: "diretor"
+
+  - id: "liniker_opera_arame_2019"
+    data_inicio: "2019-08-02"
+    data_fim: "2019-08-02"
+    titulo: "Liniker e os Caramelows - Ópera de Arame"
+    cliente: "Ópera de Arame - Curitiba"
+    local: "Ópera de Arame - Curitiba/PR"
+    competencias:
+      - "tecnico_som"
+    descricao: |
+      Técnico de som para o show de Liniker e os Caramelows na Ópera de Arame.
+      Show de grande visibilidade nacional com artista de destaque na cena musical brasileira.
+    duracao_dias: 1
+    num_shows: 1
+    publico_aprox: null
+    escala: "nacional"
+    evidencias:
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/liniker_opera_arame_2019.pdf"
+    links_audio_video: []
+    destaque: false
+    status: "completo"
+    categoria: "tecnico"
+
+  - id: "banda_mais_bonita_virada_cultural_2019"
+    data_inicio: "2019-05-19"
+    data_fim: "2019-05-19"
+    titulo: "A Banda Mais Bonita da Cidade - Virada Cultural São Paulo"
+    cliente: "Virada Cultural"
+    local: "São Paulo/SP"
+    competencias:
+      - "tecnico_pa"
+    descricao: |
+      Técnico de som PA para a apresentação da A Banda Mais Bonita da Cidade na Virada Cultural de São Paulo.
+      Um dos maiores eventos culturais do Brasil com alcance de milhões de pessoas.
+    duracao_dias: 1
+    num_shows: 1
+    publico_aprox: null
+    escala: "nacional"
+    evidencias: []
+    links_audio_video: []
+    destaque: false
+    status: "completo"
+    categoria: "tecnico"
+
+  - id: "disco_proximo_fato_2019"
+    data_inicio: "2019-11-20"
+    data_fim: "2019-11-26"
+    titulo: "Gravação do Disco 'Próximo' - Grupo FATO"
+    cliente: "Grupo FATO"
+    local: "Estúdio - Curitiba/PR"
+    competencias:
+      - "tecnico_gravacao"
+      - "produtor_musical"
+    descricao: |
+      Técnico de gravação do disco "Próximo" do Grupo FATO.
+      Álbum produzido em colaboração com João Cavalcanti.
+    duracao_dias: 7
+    num_tracks: null
+    publico_aprox: null
+    escala: "regional"
+    evidencias:
+      - tipo: "comprovante"
+        caminho: "02_DIGITALIZACOES/Comprovantes/disco_proximo_fato.pdf"
+    links_audio_video:
+      - plataforma: "spotify"
+        url: "https://open.spotify.com/album/disco-proximo-fato"
+    destaque: false
+    status: "completo"
+    categoria: "produtor"
+
+  - id: "encontro_tradicoes_2019"
+    data_inicio: "2019-11-08"
+    data_fim: "2019-11-10"
+    titulo: "Encontro de Tradições - Palmeira/PR"
+    cliente: "Prefeitura de Palmeira"
+    local: "Palmeira/PR"
+    competencias:
+      - "tecnico_som"
+      - "tecnico_pa"
+      - "tecnico_monitor"
+    descricao: |
+      Técnico de som para 14 apresentações no Encontro de Tradições.
+      Incluindo a Orquestra de Viola Caipira de Cascavel e a Congada da Lapa.
+      Evento de valorização das tradições culturais brasileiras.
+    duracao_dias: 3
+    num_shows: 14
+    publico_aprox: null
+    escala: "regional"
+    evidencias:
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/encontro_tradicoes_2019.pdf"
+    links_audio_video: []
+    destaque: false
+    status: "completo"
+    categoria: "tecnico"
+
+  - id: "fims_2018"
+    data_inicio: "2018-06-19"
+    data_fim: "2018-06-23"
+    titulo: "FIMS - Feira Internacional de Música do Sul"
+    cliente: "FIMS"
+    local: "Curitiba/PR"
+    competencias:
+      - "tecnico_som"
+      - "tecnico_pa"
+      - "tecnico_monitor"
+    descricao: |
+      Técnico de som para 12 showcases durante a FIMS - Feira Internacional de Música do Sul.
+      Uma das principais feiras de música do sul do Brasil.
+    duracao_dias: 5
+    num_shows: 12
+    publico_aprox: null
+    escala: "regional"
+    evidencias:
+      - tipo: "programa"
+        caminho: "02_DIGITALIZACOES/Programas_Shows/fims_2018.pdf"
+    links_audio_video: []
+    destaque: false
+    status: "completo"
+    categoria: "tecnico"
+
+  - id: "andre_abujamra_2013_2016"
+    data_inicio: "2013-01-01"
+    data_fim: "2016-01-01"
+    titulo: "Colaborações com André Abujamra"
+    cliente: "André Abujamra"
+    local: "Curitiba/PR e Turnês"
+    competencias:
+      - "percussionista"
+      - "baterista"
+      - "tecnico_som"
+      - "tecnico_gravacao"
+    descricao: |
+      Múltiplas colaborações com André Abujamra incluindo:
+      - Percussão no espetáculo "A Arca de Noé" (2013)
+      - Técnico de som para "LOVBORGS" (2013)
+      - Percussão no disco "Omindá" (2016)
+      - Show Mafaro como baterista (2012)
+    duracao_anos: 4
+    num_projetos: 4
+    publico_aprox: null
+    escala: "regional"
+    evidencias: []
+    links_audio_video:
+      - plataforma: "spotify"
+        url: "https://open.spotify.com/artist/andre-abujamra"
+    destaque: false
+    status: "completo"
+    categoria: "musico"
+
+destaques:
+  - titulo: "Grupo FATO"
+    cargo: "Técnico de Som e Produtor"
+    periodo: "desde 2013"
+    descricao: "Mais de 50 shows incluindo turnês nacionais e internacionais (França, Argentina, Uruguai)"
+  - titulo: "Fandango Caiçara - Patrimônio Imaterial"
+    cargo: "Produtor Musical"
+    periodo: "2023"
+    descricao: "4 discos de Fandango: Grupo Mandicuera, Grupo Mestre Eugenio, Grupo Pés de Ouro e Grupo Mestre Romão"
+  - titulo: "Thayana Barbosa"
+    cargo: "Baterista"
+    periodo: "desde 2009"
+    descricao: "Músico acompanhante em shows ao vivo e gravações"
